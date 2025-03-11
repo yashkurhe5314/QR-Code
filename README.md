@@ -9,3 +9,5 @@ Easily generate QR codes in seconds! Just enter any text or URL, and get your sc
 🔹 No Sign-Up Needed – Free, fast, and hassle-free! 🎉
 
 Try it now and create your own QR code in seconds! 🏆📱
+
+Link To Checkout(https://qr-code-phi-five.vercel.app/)
